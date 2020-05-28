@@ -1,0 +1,66 @@
+@font-face{
+    font-family: robotoBold;
+    src: url("/assets/lettertype/Roboto-Bold.ttf")
+}
+.filosofie-header{
+    padding-top: 5rem;
+    text-align: center;
+}
+.filosofie {
+    &__container {
+        margin-right: 0px;
+    }
+    &__item__title {
+        text-align: center;
+        color: green;
+        font-size: 2rem;
+    }
+}
+
+.filosofie__item__princ-content__list__item {
+    list-style-type: none;
+    font-size: 2rem;
+    margin: 2rem;
+    cursor: pointer;
+    font-family: robotoBold;
+}
+
+.filosofie__item__princ-content__list__item:before {
+    content: "\00BB";
+    margin: 1rem;
+    color: darkgray;
+}
+
+.filosofie__item__princ-content__list__item:hover {
+    color: darkgreen;
+}
+
+.filosofie__item__obstakels__block{
+    margin: 5rem;
+}
+
+.modalone__content {
+    margin-top: 10%;
+}
+.modalone__content, 
+.modalsecond__content, 
+.modalthird__content, 
+.modalforth__container, 
+.modalfifth__content, 
+.modalsixth__content{
+    font-family: robotoBold;
+}
+
+.modalone__content__item {
+    margin-top: 10%;
+    font-size: 2rem;
+    list-style-type: none;
+}
+
+.modalsecond__content {
+    font-size: 2rem;
+}
+
+.modalforth__container {
+    text-align: center;
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>INCEPTION SLIDER</title>
+
+    <link rel="stylesheet" href="/../../assets/bootstrap/css/bootstrap.min.css">   
+    <link rel="stylesheet" href="/bootstrap/assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="/../../assets/css/inception.css">
+    
+    <!-- <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">   -->
+    <!-- <link rel="stylesheet" href="../css/style.css">    -->
+    <!-- <link rel="stylesheet" href="../fonts/font-awesome.min.css"> -->
+    <!-- <link rel="stylesheet" href="../css/inception.css"> -->
+    <!-- <link rel="stylesheet" href="../../index.html">   -->
+ 
+   
+</head>
+
+<body>
+
+    <!-- BEGIN YASMINA -->
+   
+    <div id="range_slides_4_columns_carousel"
+        class="carousel slide range_slides_carousel_wrapper swipe_x ps_easeOutCirc slider" data-ride="carousel"
+        data-duration="0" data-interval="5000" data-pause="hover">
+
+        <!--========= Indicators =========-->
+        
+        <!-- <ol class="carousel-indicators range_slides_carousel_indicators">
+            <li data-target="#range_slides_4_columns_carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#range_slides_4_columns_carousel" data-slide-to="1"></li>
+            <li data-target="#range_slides_4_columns_carousel" data-slide-to="2"></li>
+        </ol>
+
+        !-->
+
+        <!--========= Wrapper for slides =========-->
+        <div class="carousel-inner range_slides_carousel_inner" role="listbox">
+
+            <!--========= First slide =========-->
+            <div class="carousel-item active">
+                <div class="row slider__container">
+                    <div class="col-3 col-sm-3 col-md-3 range_slides_item_image slider__item">
+                        
+                            <!-- <img class="inceptimages" src="/../../assets/img/inceptionslider/newscard2.png"> -->
+                   <img class="inceptimages" src="/../../assets/img/inceptionslider/Foto_Startup Weekend1.JPG">
+                        </div>
+            
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="row slider__container">
+                    <div class="col-3 col-sm-3 col-md-3 range_slides_item_image slider__item">
+
+                            <img class="inceptimages" src="../img/inceptionslider/Foto_StartupWeekend Postits.JPG">
+                   </div>
+            
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="row slider__container">
+                    <div class="col-3 col-sm-3 col-md-3 range_slides_item_image slider__item">
+
+                            <img class="inceptimages" src="../img/inceptionslider/newscard3.jpg">
+                   </div>
+            
+                </div>
+            </div>
+
+            <!--======= Navigation Buttons =========-->
+
+
+        </div>
+
+        <!--======= Navigation Buttons =========-->
+
+        <!--======= Left Button =========-->
+
+        <a class="carousel-control-prev range_slides_carousel_control_left" href="#range_slides_4_columns_carousel"
+            data-slide="prev">
+
+            <span class="fa fa-chevron-left range_slides_carousel_control_icons" aria-hidden="true"></span>
+        </a>
+
+        <!--======= Right Button =========-->
+        <a class="carousel-control-next range_slides_carousel_control_right" href="#range_slides_4_columns_carousel"
+            data-slide="next">
+            <span class="fa fa-chevron-right range_slides_carousel_control_icons" aria-hidden="true"></span>
+        </a>
+
+    </div>
+
+    </div>
+    <!--*-*-*-*-*-*-*-*-*-*- END BOOTSTRAP CAROUSEL *-*-*-*-*-*-*-*-*-*-->
+
+
+
+    <!-- End: 4 Col Small Slider -->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+
+        <!-- BEGIN YASMINA -->
+
+</body>
+
+</html>
